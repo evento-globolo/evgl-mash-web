@@ -1,0 +1,14 @@
+[
+  "aggregation",
+  "axum",
+  "discovery",
+  "events",
+  "evgl",
+  "geospatial",
+  "htmx",
+  "maud",
+  "rust",
+  "seaorm",
+  "supabase",
+  "websocket"
+]
